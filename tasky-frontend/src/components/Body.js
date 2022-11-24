@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom"
-import giffi from "./assests/giffi.gif"
+import giffi from "./assests/giffi.jpg"
 
 
 function Body(loading) {

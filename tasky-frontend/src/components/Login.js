@@ -1,5 +1,5 @@
 import React from 'react'
-import giffi from "./assests/giffi.gif";
+import giffi from "./assests/giffi.jpg";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { Link, useNavigate } from "react-router-dom"
